@@ -1,0 +1,25 @@
+{
+  "name": "project-blockchain",
+  "version": "1.0.0",
+  "description": "blockChain project",
+  "main": "index.js",
+  "scripts": {
+    "test": "server/error-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunandasharma61/project-blockChain.git"
+  },
+  "author": "Sunanda Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunandasharma61/project-blockChain/issues"
+  },
+  "homepage": "https://github.com/sunandasharma61/project-blockChain#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20"
+  }
+}
